@@ -1,4 +1,4 @@
-ModificationType: Mod
+ModificationType: Path
 Name: Empire Pacific Alliance
 Version: 0.9.02
 SimpleDownloadLink: https://www.dropbox.com/scl/fo/t6lt50vb1fgycytf4xiif/APX-3PT-5IKp_Ayfn-gZZe0?rlkey=o590muu97c3tp9rhvbw7r2zf3&st=zsdmjh6o&dl=0
@@ -13,4 +13,5 @@ S3FolderName: C&CEPA
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
