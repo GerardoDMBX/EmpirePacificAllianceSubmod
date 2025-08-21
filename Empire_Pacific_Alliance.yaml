@@ -7,12 +7,13 @@ DiscordLink: ''
 ModDBLink: ''
 NewsLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/articles
 DependenceName: Rise Of The Reds
-S3HostLink: gen.insave.ovh:9001
+S3HostLink: gen.insave.ovh:9000
 S3BucketName: rotrepa 
 S3FolderName: CNC_EPA
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
