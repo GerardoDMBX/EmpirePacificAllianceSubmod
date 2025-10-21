@@ -1,6 +1,6 @@
 ModificationType: Patch
 Name: Empire Pacific Alliance
-Version: Beta 0.9.02
+Version: Beta 0.9.02+1
 SimpleDownloadLink: https://www.dropbox.com/scl/fo/t6lt50vb1fgycytf4xiif/APX-3PT-5IKp_Ayfn-gZZe0?rlkey=o590muu97c3tp9rhvbw7r2zf3&st=mjakf85g&dl=0
 UIImageSourceLink: ''
 DiscordLink: ''
@@ -9,10 +9,11 @@ NewsLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/articles
 DependenceName: Rise Of The Reds
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: rotrepa 
-S3FolderName: CNC_EPA
+S3FolderName: rotrepaA
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
