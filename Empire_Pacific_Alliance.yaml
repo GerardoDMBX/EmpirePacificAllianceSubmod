@@ -1,6 +1,6 @@
 ModificationType: Patch
 Name: Empire Pacific Alliance
-Version: Beta 0.9.08+3.2
+Version: Beta 0.9.08+3.3
 SimpleDownloadLink: https://www.dropbox.com/scl/fo/t6lt50vb1fgycytf4xiif/APX-3PT-5IKp_Ayfn-gZZe0?rlkey=o590muu97c3tp9rhvbw7r2zf3&st=mjakf85g&dl=0
 UIImageSourceLink: ''
 DiscordLink: ''
@@ -13,6 +13,7 @@ S3FolderName: rotrepaA
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
